@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "numpy": "^0.0.1",
+    "tesseract-ocr": "^1.0.0"
+  }
+}
