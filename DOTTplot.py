@@ -45,6 +45,13 @@ if function_choice < 4 or function_choice > 6:
     print("Invalid function preset choice. Please choose a number between 4 and 6.")
     exit()
 
+
+def Matplotlib_Algebra():
+    x = np.linspace(f, g, h)
+    y = "tesseract"  # Placeholder for OCR result
+    plt.plot(x, y)
+
+
 while True:
     ret, frame = metime.read()
 
